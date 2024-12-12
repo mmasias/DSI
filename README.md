@@ -1,8 +1,8 @@
-# NombreAsignatura
+# Dirección de Sistemas de Información
 
-Repo de materiales y proyectos de la asignatura **NombreAsignatura** del [Grado de Ingeniería Informática](https://www.uneatlantico.es/escuela-politecnica-superior/estudios-grado-oficial-en-ingenieria-informatica) la [Universidad Europea del Atlántico](https://www.uneatlantico.es).
+Repo de materiales y proyectos de la asignatura **Dirección de Sistemas de Información** del [Grado de Ingeniería Informática](https://www.uneatlantico.es/escuela-politecnica-superior/estudios-grado-oficial-en-ingenieria-informatica) la [Universidad Europea del Atlántico](https://www.uneatlantico.es).
 
-## Curso *[x][x+1]*
+## Curso *[24][25]*
 
 - [Temario](temario/README.md)
   - [A día de hoy, deberíamos saber...](temario/aDiaDeHoy.md)

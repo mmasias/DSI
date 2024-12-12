@@ -1,0 +1,28 @@
+@startgantt
+Project starts the 3th of february 2025
+language es
+printscale weekly
+hide footbox
+
+
+header ADE / IOI / II
+
+footer Planning
+
+title Dirección de sistemas de información
+
+[Tema 1] requires 3 weeks
+[Tema 2] requires 3 weeks
+[Parcial] requires 1 day
+-- Segunda fase --
+[Tema 3] requires 3 weeks
+[Tema 4] requires 3 weeks
+[Tema 5] requires 2 weeks
+
+[Tema 1] starts D+0
+[Tema 2] starts D+21
+[Parcial] starts D+42
+[Tema 3] starts D+43
+[Tema 4] starts D+63
+[Tema 5] starts D+84
+@endgantt

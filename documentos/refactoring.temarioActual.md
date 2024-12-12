@@ -1,0 +1,48 @@
+# Temario actual
+
+- **Tema 1: Modelos de negocio e innovación**
+  - 1.1 Economía Digital.
+  - 1.2 Modelos de Negocio CANVAS y estudios de caso.
+  - 1.3 Análisis DAFO.
+  - 1.4 Herramientas de diseño e introducción al Design Thinking.
+  - 1.5 Innovación y metodologías ágiles.
+  - 1.6 La estrategia de Océano Azul y su aplicación práctica.
+- **Tema 2: Funciones de la DSI**
+  - 2.1 Definición y roles de los Sistemas de Información en las organizaciones.
+  - 2.2 Evolución histórica y últimas tendencias (IA, blockchain, Big Data).
+  - 2.3 Recursos Materiales y datos: Elementos básicos (Hardware y Software).
+  - 2.4 Personas y gestión del cambio organizacional en DSI.
+  - 2.5 Actividades y operaciones clave de la DSI.
+- **Tema 3: Estrategia y planificación de los sistemas de información**
+  - 3.1 Transformación digital y ciberseguridad.
+  - 3.2 La organización: usuarios - clientes y su implicación en la estrategia TI.
+  - 3.3 Planificación de las TI y frameworks de arquitectura empresarial (TOGAF, Zachman).
+  - 3.4 Evaluación, gestión y control de proyectos TI.
+  - 3.5 El capital humano de TI y su desarrollo.
+  - 3.6 El rol del CIO en la era digital.
+- **Tema 4: Gestión de proyectos de integración de sistemas**
+  - 4.1 Objetivos e introducción a la gestión de proyectos TI.
+  - 4.2 Lenguajes de Programación y su evolución.
+  - 4.3 Metodologías de Desarrollo (Ágil, CMMi, CI/CD).
+  - 4.4 Tipología de Aplicaciones y sistemas integrados (ERP, CRM, SCM).
+  - 4.5 Caso Práctico: Implantación y integración de sistemas empresariales.
+- **Tema 5: Gestión de operaciones**
+  - 5.1 Infraestructura Tecnológica y su evolución.
+  - 5.2 Cloud Computing y modelos de servicio.
+  - 5.3 Green IT y sostenibilidad en TI.
+  - 5.4 Virtualización y Automatización de Procesos Robóticos (RPA).
+  - 5.5 IoT y su impacto en la gestión de operaciones.
+  - 5.6 Arquitectura Empresarial en la práctica.
+- **Tema 6: Gestión de proveedores y seguridad**
+  - 6.1 Gestión de servicios TI y modelos de sourcing (Rightsourcing, outsourcing).
+  - 6.2 Offshoring y estrategias de implementación.
+  - 6.3 Definición y gestión de SLA en la externalización.
+  - 6.4 Caso práctico: Acuerdos de Nivel de Servicio (SLA).
+  - 6.5 Seguridad de la Información: Tendencias y amenazas actuales.
+  - 6.6 Privacidad y gestión de riesgos en seguridad TI.
+- **Tema 7: Comercio electrónico y digital**
+  - 7.1 Fundamentos y evolución del Comercio electrónico.
+  - 7.2 Comercio móvil (m-commerce) y el papel de las redes sociales.
+  - 7.3 Análisis de datos y personalización en el comercio electrónico.
+  - 7.4 Éxitos y fracasos en el comercio electrónico: Lecciones aprendidas.
+  - 7.5 Componentes clave y estrategias de éxito en el negocio electrónico.
