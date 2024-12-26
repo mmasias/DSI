@@ -73,7 +73,7 @@ Temas propuestos:
 
 > [*Lista detallada*](temarioNuevo.md)
 
-- Tema 1: Transformación digital y nuevos modelos
+- Tema 1: [Transformación digital y nuevos modelos](tema1/README.md)
 - Tema 2: Estrategia y gobernanza digital
 - Tema 3: Gestión de proyectos y modernización
 - Tema 4: Tecnologías y sostenibilidad
