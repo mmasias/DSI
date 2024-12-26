@@ -4,7 +4,7 @@ Repo de la asignatura **Dirección de Sistemas de Información** del [Grado de I
 
 ## Temario
 
-- [En *refactoring*](/documentos/refactoring.md)
+- [En *refactoring*](documentos/refactoring/README.md)
 
 ## Repos de ediciones de la asignatura
 

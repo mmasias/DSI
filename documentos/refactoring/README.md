@@ -4,7 +4,7 @@
 
 Temario actual
 
-> [*detallado*](refactoring.temarioActual.md)
+> [*detallado*](temarioActual.md)
 
 - Tema 1: Modelos de negocio e innovación
 - Tema 2: Funciones de la DSI
@@ -51,7 +51,7 @@ Temario actual
 
 Temas propuestos:
 
-> [*Lista detallada*](refactoring.temasPropuestosCompleto.md)
+> [*Lista detallada*](temasPropuestosCompleto.md)
 
 - Gobernanza y regulación
 - Modernización y deuda
@@ -71,7 +71,7 @@ Temas propuestos:
 
 ## Nuevo temario
 
-> [*Lista detallada*](refactoring.temarioNuevo.md)
+> [*Lista detallada*](temarioNuevo.md)
 
 - Tema 1: Transformación digital y nuevos modelos
 - Tema 2: Estrategia y gobernanza digital
