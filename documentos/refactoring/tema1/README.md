@@ -2,7 +2,7 @@
 
 ## Contenidos
 
-- Economía Digital y Plataformas
+- [Economía Digital y Plataformas](t1-00100-economiaDigitalPlataformas.md)
   - Modelos platform-centric
   - Ecosistemas digitales
   - APIs como estrategia
