@@ -2,7 +2,7 @@
 
 ## Contenidos
 
-- [Economía Digital y Plataformas](t1-00100-economiaDigitalPlataformas.md)
+- Economía Digital y Plataformas
   - Modelos platform-centric
   - Ecosistemas digitales
   - APIs como estrategia
@@ -29,8 +29,8 @@
 ## ESTRUCTURA SEMANAL
 
 - Semana 1: Diagnóstico
-  - S1: Presentación caso + Análisis situación actual
-  - S2: Ecosistema digital + Primera propuesta platform-centric
+  - [**S1**](t1-00100-economiaDigitalPlataformas.md): Presentación caso + Análisis situación actual
+  - [**S2**](t1-00200-transformacionEmpresarial.md): Ecosistema digital + Primera propuesta platform-centric
 - Semana 2: Diseño
   - S3: Workshop Design Thinking con stakeholders reales
   - S4: Desarrollo modelo plataforma + APIs
