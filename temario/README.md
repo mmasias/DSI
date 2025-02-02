@@ -49,3 +49,34 @@
 |Metodologías de desarrollo|
 |Tipología de aplicaciones|
 |Sistemas ERP (Enterprise Resource Planning)|
+
+## Gestión de operaciones
+
+- [ ] Objetivos.
+- [ ] Infraestructura Tecnológica
+- [ ] Servidores
+- [ ] Cloud Computing
+- [ ] Green IT.- Virtualización: Virtualización de Servidores.
+- [ ] Arquitectura Empresarial.
+
+## Gestión de servicios
+
+- [ ] X-sourcing: Rightsourcing, outsourcing, insourcing, multisourcing
+- [ ] Offshoring. Cómo se implanta y dónde es mejor implantarlo.
+- [ ] Definición de SLA en procesos de externalización.
+- [ ] Seguridad de información en los negocios.
+- [ ] Seguridad y privacidad.
+
+## Comercio electrónico
+
+- [ ] DAFO del concepto de comercio electronico
+- [ ] ¿Estoy preparado para el comercio electrónico?
+- [ ] 🤔
+
+# [Y además...](/documentos/refactoring/temasPropuestosCompleto.md)
+
+- Gobernanza y regulación
+- Modernización y deuda
+- Cultura y talento
+- Sostenibilidad
+- Plataformas y ecosistemas
