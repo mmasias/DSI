@@ -1,18 +1,51 @@
 # Temario
 
-- [x] **[Introducción](00-00-introduccion.md)**
-  - [x] **[Sub tema introducción](00-01-Algoritmos.md)**
-- [ ] Tema 1
-  - [ ] Sub tema 1.1
-  - [ ] Sub tema 1.2
-  - [ ] Sub tema 1.3
-- [ ] Tema 2
-- [ ] Tema 3
+## Introducción
 
-## Temario++
+- [ ] Introducción a la asignatura
 
-- [x] Artículos varios recopilados en la [carpeta de documentos](/documentos/README.md).
+## Modelos de negocio e innovación
 
----
+- [ ] Economía digital
+- [ ] Herramientas y marcos de trabajo
+  - [ ] El lienzo de modelo de negocio
+  - [ ] Análisis DAFO
+  - [ ] Otros marcos de trabajo
+    - [ ] Cinco fuerzas Porter
+- [ ] Innovación
+  - [ ] Tipos de innovación
+  - [ ] El Modelo de innovación como proceso
+  - [ ] Enfoques para innovar
+    - [ ] Estrategia de Océano Azul
+    - [ ] Innovación abierta (Open innovation)
+    - [ ] Teoría de los trabajos por realizar (Jobs to be done)
+    - [ ] Innovación de plataformas
 
-Con todo esto, [a día de hoy deberíamos saber](aDiaDeHoy.md)...
+## Funciones de la dirección de sistemas de información
+
+- [ ] Definición de Sistemas de la información en las organizaciones
+- [ ] Evolución histórica
+- [ ] Componentes
+- [ ] Personas: como nos organizamos
+  - [ ] Funciones
+  - [ ] Conocimiento
+- [ ] Actividades de la DSI
+
+## Estrategia y planificación de los sistemas de información
+
+- [ ] Transformación digital
+- [ ] Etapas
+- [ ] Planificación de las TI
+- [ ] Frameworks de arquitectura empresarial
+- [ ] El capital humano de TI
+- [ ] Ciberseguridad
+
+## Gestión de proyectos de integración de sistemas
+
+|Herramientas|Diseño|Implantación|Valoración|
+|-|-|-|-|
+|Lenguajes de programación|Evaluación de requisitos y selección de sistemas|Gestión del cambio y adopción del usuario|Indicadores|
+|NoCode|Arquitectura de integración de sistemas|Gestión de la seguridad e integridad de datos|Gestión de riesgos|
+|Metodologías de desarrollo|
+|Tipología de aplicaciones|
+|Sistemas ERP (Enterprise Resource Planning)|
