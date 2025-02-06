@@ -2,7 +2,7 @@
 
 ## Introducción
 
-- [ ] Introducción a la asignatura
+- [x] Introducción a la asignatura [v24-25](https://github.com/mmasias/24-25-DSI/blob/main/temario/00-introduccionDSI.md)
 
 ## Modelos de negocio e innovación
 
